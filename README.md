@@ -14,3 +14,8 @@ Optimiza estructuras sin necesidad de refinamientos extremos.
 🤖 Y ahora, con la incorporación de Agentes IA, automatizamos tareas, mejoramos el diseño en tiempo real y tomamos decisiones basadas en datos complejos y predicción.
 
 
+https://EdwardVasquezM.github.io/blog-ingenieria/
+
+
+Autor
+Presentación generada por Edward, ingeniero estructural apasionado por la matemática avanzada y asistido por ChatGPT-4o.
