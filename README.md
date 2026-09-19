@@ -1,21 +1,31 @@
-🚀 El Futuro de la Ingeniería ya está aquí: Matemáticas Aplicadas, EAM y Agentes IA
-🔧 En BISA Ingeniería de Proyectos, vivimos una transformación apasionante: la ingeniería dejó de ser solo planos y cálculos, y se ha convertido en una integración poderosa entre ciencia, simulación avanzada y tecnología inteligente.
+# Blog de ingeniería
 
-🧠 Las matemáticas aplicadas son el lenguaje con el que resolvemos desafíos reales: diseño estructural, eficiencia energética, y seguridad en entornos complejos como la minería.
+Sitio de divulgación de Edward Vásquez Morales sobre matemáticas aplicadas, FEM, aproximaciones externas e inteligencia artificial en ingeniería. Forma parte del **portafolio público**.
 
-🔷 El Método de Aproximaciones Externas (EAM) está revolucionando el análisis estructural:
+## Consultar
 
-Evita las limitaciones de mallados tradicionales.
+- [Sitio publicado](https://EdwardVasquezM.github.io/blog-ingenieria/).
+- Para consulta local, descarga el repositorio y abre `index.html`.
 
-Permite estudiar vibraciones, daño y estabilidad con gran precisión.
+La página usa Tailwind CSS 2.2.19 desde un CDN; necesita conexión para cargar esa hoja de estilos. No existe un proceso de compilación ni un entorno Python en este repositorio.
 
-Optimiza estructuras sin necesidad de refinamientos extremos.
+## Contenido y estructura
 
-🤖 Y ahora, con la incorporación de Agentes IA, automatizamos tareas, mejoramos el diseño en tiempo real y tomamos decisiones basadas en datos complejos y predicción.
+- `index.html`: artículo «El Futuro de la Ingeniería».
+- `ingeniero_bisa.png`: imagen utilizada por la página.
+- `representacion_matematica.png`: ilustración utilizada por la página.
+- [Organización y revisión](docs/ORGANIZACION.md): criterios editoriales y pendientes.
 
+Las imágenes permanecen en la raíz para conservar los enlaces existentes.
 
-https://EdwardVasquezM.github.io/blog-ingenieria/
+## Criterio editorial
 
+El contenido es divulgativo. Las afirmaciones sobre precisión, estabilidad numérica y capacidades de automatización requieren bibliografía o casos verificables antes de utilizarse para seleccionar un método o justificar una decisión de diseño.
 
-Autor
-Presentación generada por Edward, ingeniero estructural apasionado por la matemática avanzada y asistido por ChatGPT-4o.
+Para nuevos artículos, indicar fecha, autoría, fuentes, supuestos y límites. Diferenciar ejemplos ilustrativos de resultados reproducibles y registrar la versión de las herramientas cuando corresponda.
+
+## Autoría y reutilización
+
+El README original acredita a Edward como autor con asistencia de ChatGPT-4o. La página incluye referencias a BISA Ingeniería de Proyectos; estas menciones no acreditan por sí solas respaldo institucional.
+
+No se encontró un archivo de licencia. Confirmar las condiciones de uso del texto y de las imágenes antes de su redistribución.
